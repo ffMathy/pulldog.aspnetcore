@@ -12,6 +12,7 @@ I will be starting creating a new project from the commandline.
 $ dotnet new webapp
 ```
 
+
 ![dotnetnew.png](Assets/dotnetnew.png)
 
 Running the project will just show you the basic template page like so:
