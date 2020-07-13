@@ -1,8 +1,10 @@
 # pulldog.aspnetcore
 
-## Starting the project
+This is a small guide for getting started with pulldog. Pulldog is an automated test environments from your docker-compose.yml file for every pull request you open. It includes a free tier which alow users to use a shared pool of servers.
 
-This is a small guide for getting started with pulldog. This project will be based on the AspNet Core WebApp template using Razor pages. But feel free to use whatever floats your boat.
+# Starting the project
+
+This project will be based on the AspNet Core WebApp template using Razor pages. But feel free to use whatever floats your boat.
 
 I will be starting creating a new project from the commandline. 
 
@@ -16,7 +18,7 @@ Running the project will just show you the basic template page like so:
 
 ![basic.png](Assets/basic.png)
 
-## Dockerize
+# Dockerize
 
 ![docker.png](Assets/docker.png)
 
@@ -69,7 +71,13 @@ You should then be able to visit the site again on port 5000.
 ![docker-compose.png](Assets/docker-compose.png)
 
 
+# Who let the dogs out
 
+![dogger.png](Assets/dogger.svg)
+
+https://dogger.io/
+
+https://github.com/apps/pull-dog
 
 
 
